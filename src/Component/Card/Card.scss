@@ -1,0 +1,11 @@
+@use  '../../ThemeConfig/Variables.scss' as *;
+
+.card {
+    display: block;  
+    &.ant-card-hoverable {
+        border: 1px solid $GrayBorderColor;
+        &:hover {
+            border: 1px solid $GrayBorderColor;
+        }
+    }
+}

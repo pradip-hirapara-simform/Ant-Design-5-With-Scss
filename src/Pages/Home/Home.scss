@@ -1,0 +1,14 @@
+@use './../../ThemeConfig/Variables.scss' as *;
+.blog-section {
+    padding: 0 0 100px;
+}
+.blog-list-head {
+    color: $BlackTextColor;
+    font-size: 38px;
+    line-height: 44px; 
+    margin: 0 0 40px;
+    text-align: center;
+    // ${lg(`
+    //     font-size: 32px;
+    // `)}
+}

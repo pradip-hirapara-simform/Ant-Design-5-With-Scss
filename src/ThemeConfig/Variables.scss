@@ -1,0 +1,25 @@
+
+$Primary: var(--primary);
+$BlackTextColor: var(--blackTextColor);
+$WhiteBgColor: var(--whiteBgColor);
+$BlackBgColor: var(--blackBgColor);
+$WhiteTextColor: var(--whiteTextColor);
+$RgbBlackBgColor: var(--rgbBlackBgColor);
+$GrayBorderColor: var(--grayBorderColor);
+
+
+$breakpoints-up: (
+  sm: 640px,
+  md: 1000px,
+  lg: 1184px,
+  xl: 1440px,
+  xxl: 1600px,
+);
+
+$breakpoints-down: (
+  xs: 639px,
+  sm: 999px,
+  md: 1183px,
+  lg: 1339px,
+  xl: 1599px,
+);

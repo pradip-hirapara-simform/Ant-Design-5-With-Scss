@@ -1,0 +1,14 @@
+@use  '../../ThemeConfig/Variables.scss' as *;
+
+.blog-card-title {
+  font-size: 20px;
+  line-height: 28px;
+  color: $BlackTextColor;
+  margin: 0 0 15px;
+}
+.blog-card-info {
+  font-size: 16px;
+  line-height: 22px;
+  color: $BlackTextColor;
+  margin: 0;
+}
